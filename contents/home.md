@@ -2,7 +2,7 @@ Childfree adults (1) do not have biological or adopted children _and_ (2) do not
 
 Childfree adults are sometimes also called voluntarily childless. However, we prefer the term "childfree" for a few reasons. First, it is the most widely-used term in academic and non-academic circles. Second, it is a short, single-word term that is easy to use in writing. Third, it is the term preferred by members of this group.
 
-**Types of non-parents**
+### Types of non-parents
 Demographic research often distinguishes parents from non-parents, but there are many different types of non-parents. Different types of non-parents can be distinguished by their Attitudes, Behaviors, and Circumstances surrounding having children, or what we call [the ABC Framework](https://doi.org/10.31234/osf.io/fa89m):
 
 * _Childfree_ adults do not want children
