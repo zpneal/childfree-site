@@ -1,1 +1,26 @@
-Section 2 text
+### How many people are childfree?
+**In the United States, [nearly 30% of non-parents age 18-44 were childfree in 2022](https://doi.org/10.1111/jomf.13097)**, up from only 14% in 2002. There are a lot of childfree people, and growing numbers of people are deciding they do not want to have children. This mirrors other studies that have found similarly high estimates. For example, across on five separate rounds of data collection from representative samples of Michigan adults between 2020 and 2022, we estimated that [20-25% of all adults in Michigan are childfree](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283301). Likewise, in 2024 the PEW Research Center estimated that [47% of non-parents age 18-49 were not likely to have children](https://www.pewresearch.org/social-trends/2024/07/25/the-experiences-of-u-s-adults-who-dont-have-children/).
+
+Estimates of the prevalence of childfree adults vary from study to study because they ask different questions (e.g., do you want, do you plan to have), using different methods (e.g., anonymous survey, face-to-face interview), to different groups (e.g., younger women, all adults). However, all the available data suggests that a substantial number of adults in the United States are childfree, and that this number is growing.
+
+### What are some common myths about childfree people?
+Childfree adults are often the subject of stereotypes, myths, and misconceptions. One common myth is that childfree adults will regret their decision not to have children. However, controlling for demographic characteristics, there is [**no difference in the life satisfaction of childfree adults and parents**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252528#sec019). There is also [no difference in life regrets after age 70 between childfree adults and parents](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283301).
+
+Another common myth is that childfree adults, especially childfree women, will change their mind later. Most data on childfree adults is cross-sectional, so it is difficult to formally test this claim. However, the available data is not consistent with this claim. Instead, we find that [many people who decided to be childfree in their teens or earlier were still childfree in their 40s](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283301#sec020).
+
+To help better understand stereotypes about childfree adults, we developed the [Stereotypes about Childfree Adults (SAChA) scale](https://doi.org/10.31234/osf.io/8u2mp), which contains four questions and can be used in surveys. Using this scale, we found that men, non-college graduates, and people who want(ed) children hold stronger negative stereotypes about childfree adults.
+
+### How do childfree people fit into society?
+[**Childfree adults tend to be less satisfied with their neighborhoods**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0273082) than co-parents, empty-nesters, or people planning to become parents. There are a couple reasons this might happen.
+
+Interpersonal warmth is one way to describe how a person or group feels about another person or group. We found that childfree adults feel just as warm toward other childfree adults as they do toward parents, and parents also feel just as warmly toward childfree adults. But, we also found that in terms of warmth, [parents have a very strong preference to interact with other parents](https://www.nature.com/articles/s41598-022-15728-z). This strong preference for other parents could mean that childfree adults get left out of community events.
+
+It's also possible that childfree adults aren't considered when important decisions are being made about the community. Both [Michigan policymakers told us that the local needs and preferences of parents and children take should priority over childfree adults](https://doi.org/10.31235/osf.io/wprsh).
+
+### How do politics matter for childfree people?
+[Childfree adults tend to be slightly more liberal than parents](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252528#sec019) on average. Over several waves of data from Michigan, 33% of parents identify as left-leaning while 44% of childfree adults identify as left-leaning.
+
+**Political issues, especially reproductive rights, seem to play an important role in individuals' decisions whether they want children**. In their 2022 Dobbs v. Jackson decision, the US Supreme Court overturned the constitutional protection of abortion access previously guaranteed by Roe v Wade. We found that [the percent of Michigan adults who don't want children jumped from 21% to 26% immediately following this decision](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294459). Controlling for demographic characteristics, a Michigan adult was 33% more likely to be childfree after guaranteed abortion access was eliminated.
+
+### Is being childfree a Western phenomenon?
+No. Childfree adults can be found throughout the world. About 5% of adults age 18-50 in [Japan](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302184) are childfree, and this is growing by 3% each year. There has been a dramatic increase in the number of childfree women in the [Philippines](https://doi.org/10.1177/0192513X251322148). And, childfree adults can be found in most [developing countries throughout Africa and Asia](https://doi.org/10.1371/journal.pone.0333906).
