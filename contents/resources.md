@@ -25,10 +25,14 @@
 
 * Neal, Z. P. and Neal, J. W. (2025). Prevalence and predictors of childfree people in developing countries. _PLOS One, 20_, e0333906. https://doi.org/10.1371/journal.pone.0333906 ([data](https://osf.io/9zjax/))
 
+
+
 ### The {childfree} package for R
 The {[childfree](https://cran.r-project.org/web/packages/childfree/index.html)} package for R imports demographic data from a variety of public data sources, extracting and harmonizing variables useful for the study of childfree individuals. Currently the package provides access to data from the [MSU State of the State Survey](http://ippsr.msu.edu/survey-research/state-state-survey-soss) (Michigan), the [CDC National Survey of Family Growth](https://www.cdc.gov/nchs/nsfg/index.htm) (United States), and the [USAID Demographic and Health Surveys Program](https://dhsprogram.com/) (multiple developing countries).
 
 From R, the package can be installed directly from CRAN using `install.packages("childfree")`. A detailed description of package functions, with examples, is available in [this vignette](https://cran.r-project.org/web/packages/childfree/vignettes/childfree.html).
+
+
 
 ### More peer-reviewed research on childfree adults
 Our research on childfree adults builds on the work of many other researchers. Although we are unable to provide free access to their published articles or data, we've prepared [this list](https://raw.githubusercontent.com/zpneal/childfree-site/main/contents/Childfree_Bibliograph.pdf) of the research we've found useful.
