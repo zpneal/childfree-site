@@ -35,4 +35,4 @@ From R, the package can be installed directly from CRAN using `install.packages(
 
 
 ### More peer-reviewed research on childfree adults
-Our research on childfree adults builds on the work of many other researchers. Although we are unable to provide free access to their published articles or data, we've prepared [this list](https://raw.githubusercontent.com/zpneal/childfree-site/main/contents/Childfree_Bibliograph.pdf) of the research we've found useful.
+Our research on childfree adults builds on the work of many other researchers. Although we are unable to provide free access to their published articles or data, we've prepared [this list](https://raw.githubusercontent.com/zpneal/childfree-site/main/contents/Childfree_Bibliography.pdf) of the research we've found useful.
