@@ -1,7 +1,9 @@
 Childfree adults (1) do not have biological or adopted children _and_ (2) do not want to have biological or adopted children. A person can be childfree whether they are capable of having children or not; their fertility is irrelevant.
 
 Childfree adults are sometimes also called voluntarily childless. However, we prefer the term "childfree" for a few reasons. First, it is the most widely-used term in academic and non-academic circles. Second, it is a short, single-word term that is easy to use in writing. Third, it is the term preferred by members of this group.
-<br>
+
+&nbsp;
+
 ### Types of non-parents
 Demographic research often distinguishes parents from non-parents, but there are many different types of non-parents. Different types of non-parents can be distinguished by their Attitudes, Behaviors, and Circumstances surrounding having children, or what we call [the ABC Framework](https://doi.org/10.31234/osf.io/fa89m):
 
