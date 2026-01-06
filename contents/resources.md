@@ -31,4 +31,4 @@ The {[childfree](https://cran.r-project.org/web/packages/childfree/index.html)} 
 From R, the package can be installed directly from CRAN using `install.packages("childfree")`. A detailed description of package functions, with examples, is available in [this vignette](https://cran.r-project.org/web/packages/childfree/vignettes/childfree.html).
 
 ### More peer-reviewed research on childfree adults
-Our research on childfree adults builds on the work of many other researchers. Although we are unable to provide free access to their published articles or data, we've prepared a list (with links) of the research we've found useful. You can browse the list below or download a copy here.
+Our research on childfree adults builds on the work of many other researchers. Although we are unable to provide free access to their published articles or data, we've prepared [this list](https://raw.githubusercontent.com/zpneal/childfree-site/main/contents/Childfree_Bibliograph.pdf) of the research we've found useful.
